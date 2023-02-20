@@ -1,0 +1,5 @@
+mlruns/
+command.txt
+monai/
+__pycache__/
+results/
